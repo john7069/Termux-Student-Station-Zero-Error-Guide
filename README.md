@@ -1,5 +1,5 @@
-# 🎓 Termux Student Station
-> A simple, one-click study space for Android students.
+# 🎓 Termux Student Station: Zero Error Guide
+> The perfect study space for students on Android.
 > **Tested on:** Vivo, Redmi, Realme, Samsung.
 
 ---
@@ -18,4 +18,4 @@
 Copy the command below, paste it into Termux, and press **Enter**:
 
 ```bash
-pkg install git -y && git clone https://github.com/john7069/termux-student-station.git https://github.com/john7069/termux-student-station.git && cd termux-student-station && bash setup.sh
+pkg install git -y && git clone https://github.com/john7069/Termux-Student-Station-Zero-Error-Guide.git https://github.com/john7069/Termux-Student-Station-Zero-Error-Guide.git && cd Termux-Student-Station-Zero-Error-Guide && bash setup.sh
